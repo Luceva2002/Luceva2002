@@ -1,9 +1,12 @@
 ## Hi there 👋
 
+![Uploading 232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif…]()
+
 <!--
 **Luceva2002/Luceva2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/5d899d75-c071-4705-b75e-6b53437b964c)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
