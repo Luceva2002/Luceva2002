@@ -33,9 +33,7 @@ Here are some projects I've been working on:
 
 ## 📫 How to reach me
 
-- Email: [luceva2002@gmail.com](mailto:luceva2002@gmail.com)
-- LinkedIn: [Luca Evangelista](https://www.linkedin.com/in/luca-evangelista-91a2101a3/)
-- Instagram: [@luc4_evangelist4](https://www.instagram.com/luc4_evangelist4/)
+- [linktr.ee/luceva2002](https://linktr.ee/luceva2002)
 
 ## 🌱 Currently Learning
 
