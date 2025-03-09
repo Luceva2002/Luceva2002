@@ -15,12 +15,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
 
 ## 🚀 Projects
 
 Here are some projects I've been working on:
 
-- **[Personal Portfolio](https://github.com/Luceva2002/portfolio)** - My personal website built with Next.js to showcase my skills and projects.
+- **[Personal Portfolio](https://lucaevangelista.com)** - My personal website built with Next.js to showcase my skills and projects.
 - **[Custom Web Solutions](https://github.com/Luceva2002/custom-web-solutions)** - A startup project focused on creating tailored software solutions for SMEs.
 - **[BnB QR Code System](https://github.com/Luceva2002/bnb-qr-code)** - A project for digitalizing information access for a BnB via a QR code system.
 
@@ -31,7 +34,7 @@ Here are some projects I've been working on:
 ## 📫 How to reach me
 
 - Email: [luceva2002@gmail.com](mailto:luceva2002@gmail.com)
-- LinkedIn: [Luca]([https://www.linkedin.com/in/luceva2002](https://www.linkedin.com/in/luca-evangelista-91a2101a3/))
+- LinkedIn: [Luca Evangelista](https://www.linkedin.com/in/luca-evangelista-91a2101a3/)
 - Instagram: [@luc4_evangelist4](https://www.instagram.com/luc4_evangelist4/)
 
 ## 🌱 Currently Learning
