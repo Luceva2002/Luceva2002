@@ -1,27 +1,28 @@
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-# Hi there, I'm Luceva2002! 👋
+# Hi there, I'm Luca! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and learning new technologies. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate developer with a strong interest in web development and problem-solving. I love learning new technologies and working on innovative projects. Here's a bit about me:
 
 ## 🔧 Technologies & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![C](https://camo.githubusercontent.com/c3fd6682e8cca0f7c262a00f94ef0f65cadd0c8470669a2d7d6f3614e81b10c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465)
 
 ## 🚀 Projects
 
-Here are a few projects I've been working on:
+Here are some projects I've been working on:
 
-- **[Project 1](https://github.com/Luceva2002/project-1)**: A brief description of what Project 1 does.
-- **[Project 2](https://github.com/Luceva2002/project-2)**: A brief description of what Project 2 does.
-- **[Project 3](https://github.com/Luceva2002/project-3)**: A brief description of what Project 3 does.
+- **[Personal Portfolio](https://github.com/Luceva2002/portfolio)** - My personal website built with Next.js to showcase my skills and projects.
+- **[Custom Web Solutions](https://github.com/Luceva2002/custom-web-solutions)** - A startup project focused on creating tailored software solutions for SMEs.
+- **[BnB QR Code System](https://github.com/Luceva2002/bnb-qr-code)** - A project for digitalizing information access for a BnB via a QR code system.
 
 ## 📈 GitHub Stats
 
@@ -29,33 +30,36 @@ Here are a few projects I've been working on:
 
 ## 📫 How to reach me
 
-- Email: [luceva2002@example.com](mailto:luceva2002@example.com)
-- LinkedIn: [Luceva2002](https://www.linkedin.com/in/luceva2002)
-- Twitter: [@Luceva2002](https://twitter.com/Luceva2002)
+- Email: [luceva2002@gmail.com](mailto:luceva2002@gmail.com)
+- LinkedIn: [Luca]([https://www.linkedin.com/in/luceva2002](https://www.linkedin.com/in/luca-evangelista-91a2101a3/))
+- Instagram: [@luc4_evangelist4](https://www.instagram.com/luc4_evangelist4/)
 
 ## 🌱 Currently Learning
 
-- Advanced data structures and algorithms
-- React.js for front-end development
-- Docker and containerization
+- Advanced React.js and Next.js
+- Cloud computing and deployment strategies
+- Cybersecurity fundamentals
 
 ## 💬 Ask me about
 
-- Java development
-- Python scripting
-- Web development
+- Web development (React, Next.js, Node.js)
+- Problem-solving and algorithms
+- Digital transformation for businesses
+
+## 🎓 Education & Experience
+
+- **42 Roma Luiss** - Holigrafo (Third Circle)
+- **Internship at Synergica** - Developed a web application and learned the fundamentals of web development
+- **Self-taught projects** - Constantly working on improving my skills through hands-on experience
 
 ## ⚡ Fun fact
 
-- I love solving puzzles and playing strategy games in my free time!
+- I love cooking and playing football in my free time!
+- I built an arcade cabinet using a Raspberry Pi!
 
-Thanks for stopping by! Feel free to check out my repositories and get in touch. Let's connect and collaborate on exciting projects!
+Thanks for stopping by! Feel free to check out my repositories and get in touch. Let's collaborate on exciting projects! 🚀
 
-
-## :elf: 42 Piscine Student
-
-<br>
-
-<br>
+---
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
+
