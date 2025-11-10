@@ -82,13 +82,6 @@ My goal is to **reduce manual work through smart digital systems** — code that
 
 ---
 
-## 📊 GitHub Stats
-
-![Luceva2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luceva2002&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luceva2002&layout=compact&theme=radical)
-
----
-
 ## 🌱 Currently Learning
 - Smart contracts & Web3 architecture  
 - Advanced React + Server Components  
@@ -96,10 +89,13 @@ My goal is to **reduce manual work through smart digital systems** — code that
 
 ---
 
-## 📫 Connect with Me
-🌐 [linktr.ee/luceva2002](https://linktr.ee/luceva2002)  
-💼 [GitHub Profile](https://github.com/Luceva2002)  
-🎨 [Portfolio](https://lucaevangelista.com)  
+## 📊 GitHub Stats
+
+![Luceva2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luceva2002&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luceva2002&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me: 🌐 [linktr.ee/luceva2002](https://linktr.ee/luceva2002)  
 
 ---
 
