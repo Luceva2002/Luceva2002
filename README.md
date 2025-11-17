@@ -12,8 +12,7 @@ My goal is to **reduce manual work through smart digital systems** — code that
 
 ---
 
-## 🧰 FRAMEWORKS & LIBRARIES  
-
+# 🧰 FRAMEWORKS & LIBRARIES:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
