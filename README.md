@@ -18,7 +18,6 @@ My goal is to **reduce manual work through smart digital systems** — code that
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" height="40" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
 </p>
 
@@ -76,7 +75,7 @@ My goal is to **reduce manual work through smart digital systems** — code that
 ## 🚀 Featured Projects
 
 - 🧬 **[Boro Coatto Pariolino](https://boro-coatto-pariolino.vercel.app)** — A Roman personality test that mints your NFT on Arbitrum.  
-- 💸 **[SplitCast](https://github.com/Luceva2002/SplitCast)** — Crypto expense-splitting app with 1inch swap integration.  
+- 🏠 **[Maggio bnb](https://maggiobnb.it)** — Maggio Bnb Website.  
 - 🏢 **[Synergica.tech](https://synergica.tech)** — Corporate site built in WordPress with custom animated blocks inspired by Salient.  
 
 ---
@@ -94,7 +93,7 @@ My goal is to **reduce manual work through smart digital systems** — code that
 
 ---
 
-## 📫 Connect with Me: 🌐 [linktr.ee/luceva2002](https://linktr.ee/luceva2002)  
+## 📫 Connect with Me: 🌐 [luceva2002](https://lucaevangelista.eu)  
 
 ---
 
