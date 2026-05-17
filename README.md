@@ -3,7 +3,7 @@
 # 🧑🏻‍💻 Luca Evangelista
 ### **Full-Stack Developer**
 
-> *"Sviluppo sistemi digitali intelligenti per ottimizzare i processi, abbattere il lavoro manuale e offrire esperienze utente straordinarie. Codice solido, design accurato."*
+> *"Write your Future"*
 
 <p align="left">
   <a href="https://lucaevangelista.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
@@ -13,15 +13,15 @@
 
 ---
 
-## 🚀 Chi Sono
+## 🚀 About Me
 
-Sono un **Full-Stack Developer** e **UI/UX Designer** con la passione per l'automazione e il Web3. Attualmente unisco competenze di sviluppo web e strategie di digital marketing per creare soluzioni scalabili, sicure e incentrate sull'utente. 
+Hi! 👋 I'm a **Full-Stack Developer** who loves living at the intersection of logic and design. I build digital experiences that are secure under the hood and beautiful on the screen. 
 
-Spazio con disinvoltura dallo sviluppo di applicativi e smart contract (Jamstack/Blockchain) alla programmazione di basso livello in ambiente UNIX.
+I'm the kind of dev who gets equally excited about a perfectly animated UI component in Next.js as I do about managing process pipelines in a C-based shell. I hate manual data entry, love automating processes, and occasionally build funny apps to entertain my friends.
 
 ---
 
-## 🛠️ Il Mio Tech Stack
+## 🛠️ My Tech Stack
 
 ### 🖥️ Design & CMS
 <p align="left">
@@ -45,37 +45,23 @@ Spazio con disinvoltura dallo sviluppo di applicativi e smart contract (Jamstack
 
 ---
 
-## 📂 Progetti in Evidenza
+## 📂 Featured Projects
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> [Minishell](https://github.com/Luceva2002/minishell)
-> **Sviluppo di un interprete di comandi (Shell) in C**
-* **Highlight tecnico:** Gestione avanzata dei processi (`fork`), implementazione di pipeline multiple (`pipes`), reindirizzamento dell'I/O (`<`, `>`, `>>`, `<<`) e gestione dei segnali di sistema in tempo reale (`Ctrl-C`, `Ctrl-D`, `Ctrl-\`). Dimostra solide basi di programmazione concorrente e architettura dei sistemi UNIX.
+> **Development of a UNIX command interpreter (Shell) in C**
+* Advanced process management (`fork`), implementation of multiple pipelines (`pipes`), I/O redirection (`<`, `>`, `>>`, `<<`), and real-time system signal handling (`Ctrl-C`, `Ctrl-D`, `Ctrl-\`). Demonstrates solid foundations in concurrent programming and UNIX system architecture.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> [cub3d](https://github.com/Luceva2002/42cursus_cub3d)
-> **Motore grafico raycasting 3D in C**
-* **Highlight tecnico:** Implementazione manuale del raycasting, gestione delle texture e ottimizzazione dei calcoli trigonometrici senza librerie grafiche di terze parti (ispirato a Wolfenstein 3D). Mostra la mia comprensione della matematica e dell'algebra lineare applicata alla grafica.
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" width="25" /> [Boro Coatto Pariolino (BCP-Compiler)](https://github.com/Luceva2002/boro-coatto-pariolino)
-> **Un compilatore/transpiler ironico ma dall'alto valore accademico**
-* **Highlight tecnico:** Converte un linguaggio di programmazione custom basato sullo slang romano in codice JavaScript valido. Implementa le fasi fondamentali di un compilatore: *Lexer* (tokenizzazione), *Parser* (generazione dell'Abstract Syntax Tree - AST) ed *Interpreter/Code Generator*.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" /> [Synergica Website](https://lucaevangelista.com) *(Update link if necessary)*
+> **Design and development of the Synergica corporate web platform**
+* Engineered a high-performance, responsive, and SEO-optimized digital ecosystem. Focused heavily on modern UI/UX principles to maximize user engagement and conversion rates, delivering a seamless browsing experience while optimizing the client's internal digital workflows. 
 
 ---
 
-## 📊 Statistiche & Attività
+## 📊 GitHub Stats & Activity
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luceva2002&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&borderRadius=10" height="180" alt="GitHub Streak" />
 </p>
-
----
-
-## ✉️ Rimaniamo in Contatto
-
-Sei un'azienda in cerca di un developer versatile che sappia curare sia la logica che il design? Parliamone!
-
-* 🌐 **Portfolio:** [lucaevangelista.com](https://lucaevangelista.com)
-* 💼 **LinkedIn:** [luca-evangelista](https://www.linkedin.com/in/luca-evangelista-91a2101a3/)
-* 🐙 **GitHub:** [@Luceva2002](https://github.com/Luceva2002)
 
 ---
 <p align="center">
