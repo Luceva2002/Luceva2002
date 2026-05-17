@@ -51,7 +51,7 @@ I'm the kind of dev who gets equally excited about a perfectly animated UI compo
 > **Development of a UNIX command interpreter (Shell) in C**
 * Advanced process management (`fork`), implementation of multiple pipelines (`pipes`), I/O redirection (`<`, `>`, `>>`, `<<`), and real-time system signal handling (`Ctrl-C`, `Ctrl-D`, `Ctrl-\`). Demonstrates solid foundations in concurrent programming and UNIX system architecture.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" /> [Synergica Website](https://lucaevangelista.com) *(Update link if necessary)*
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" /> [Synergica Website](https://synergica.tech) 
 > **Design and development of the Synergica corporate web platform**
 * Engineered a high-performance, responsive, and SEO-optimized digital ecosystem. Focused heavily on modern UI/UX principles to maximize user engagement and conversion rates, delivering a seamless browsing experience while optimizing the client's internal digital workflows. 
 
