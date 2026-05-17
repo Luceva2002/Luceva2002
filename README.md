@@ -72,28 +72,13 @@ My goal is to **reduce manual work through smart digital systems** — code that
 
 ---
 
-## 🚀 Featured Projects
-
-- 🧬 **[Boro Coatto Pariolino](https://boro-coatto-pariolino.vercel.app)** — A Roman personality test that mints your NFT on Arbitrum.  
-- 🏠 **[Maggio bnb](https://maggiobnb.it)** — Maggio Bnb Website.  
-- 🏢 **[Synergica.tech](https://synergica.tech)** — Corporate site built in WordPress with custom animated blocks inspired by Salient.  
-
----
-
-## 🌱 Currently Learning
-- Smart contracts & Web3 architecture  
-- Advanced React + Server Components  
-- Three.js and GSAP for 3d websites  
-
----
-
 ## 📊 GitHub Stats
 
 ![Luceva2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luceva2002&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luceva2002&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect with Me: 🌐 [luceva2002](https://lucaevangelista.eu)  
+## 📫 Connect with Me: 🌐 [luceva2002](https://lucaevangelista.com)  
 
 ---
 
